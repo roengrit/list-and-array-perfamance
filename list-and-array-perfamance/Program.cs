@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace list_and_array_perfamance
+namespace list_and_array_performance
 {
     class Program
     {

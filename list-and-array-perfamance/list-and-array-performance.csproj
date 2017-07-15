@@ -7,8 +7,8 @@
     <ProjectGuid>{95536FB9-ECBA-4E9E-BF8F-228F1AD343AB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>list_and_array_perfamance</RootNamespace>
-    <AssemblyName>list-and-array-perfamance</AssemblyName>
+    <RootNamespace>list_and_array_performance</RootNamespace>
+    <AssemblyName>list-and-array-performance</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
